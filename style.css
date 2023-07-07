@@ -1,0 +1,86 @@
+body{
+    background-color: #F2F2F7;
+}
+
+.logo-title{
+    color:#4F46E5;
+    font-size:32px;
+}
+
+.custom-container {
+    border: 1pt solid black;
+    padding: 20px;
+    width: 400px;
+    margin-top: 20px;
+}
+
+.login-title{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.custom-title {
+    color:#4F46E5;
+}
+
+.user-image {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.row-input {
+    margin-top: 30px;
+}
+
+.input-group {
+    width: 350px;
+}
+
+.form-control{
+    background-color: #bbb;
+}
+
+.row-button {
+    margin-top: 10px;
+}
+
+.btn{
+    margin-top: 10px;
+    width: 200px;
+}
+
+.btn-login{
+    background-color: #4F46E5;
+    border: none;
+    box-shadow: 0px 3px 3px #4e46e5af;
+}
+
+.btn-facebook {
+    font-size: 14px;
+    padding: 0;
+}
+
+.btn-google {
+    font-size: 14px;
+    padding: 0;
+}
+
+img{
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.forgot-pass{
+    font-size: 16px;
+    background-color: #cdcdcd;
+    color: black;
+    border: none;
+    margin: 40px;
+    font-weight: 600;
+}
+
+.divider {
+    width: 100vw;
+    height: 1px;
+    background-color: black;
+}
